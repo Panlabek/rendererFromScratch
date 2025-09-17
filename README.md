@@ -1,2 +1,1 @@
-# rendererFromScratch
-# rendererFromScratch
+# simple software rasterizer from scratch
