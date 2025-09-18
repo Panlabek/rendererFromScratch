@@ -24,12 +24,6 @@ The project progresses from basic rasterization to advanced geometry processing,
 - **Geometry & Mesh Processing**
   - Loading and transforming 3D models.
   - Attribute interpolation (UVs, normals, tangents) across triangle surfaces.
-
-- **Rendering Utilities**
-  - Wireframe rendering mode.
-  - Camera transformations and perspective projection.
-  - Export of rendered images for debugging and analysis.
-
 ---
 
 ## 🔧 Tech Stack
